@@ -1,0 +1,53 @@
+body {
+  background-image: url("https://i.imgur.com/d6xUYNB.jpg");
+}
+
+.subtitulo{
+  color: brown;
+}
+
+.titulo{
+  text-align: center;
+  color: brown;
+}
+
+div{
+  text-align: center;
+}
+
+.click{
+  margin-right: 5%;
+}
+
+#descricao{
+  text-align: center;
+}
+
+#sobre{
+  text-align: center;
+}
+
+#caramelo{
+  height: 400px;
+  width: 400px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+a:link {
+  color: black;
+}
+
+a:visited {
+  color: brown;
+}
+
+a:hover {
+  color: hotpink;
+}
+
+a:active {
+  color: red;
+}
+
